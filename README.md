@@ -1,9 +1,12 @@
-# 職務経歴書
+
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Shu-Seino&show_icons=true&theme=radical&count_private=true" />
 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shu-Seino&show_icons=true&theme=radical" />
 
 
+
+
+# 職務経歴書
 |key|value|
 |---|-----|
 |Name|清野　就 (Shu Seino)|
