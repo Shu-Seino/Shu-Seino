@@ -1,5 +1,10 @@
-<a href="https://github-readme-stats.vercel.app/api?username=Shu-Seino&count_private=true&show_icons=true&theme=dracula"></a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Shu-Seino&layout=compact&theme=dracula"></a>
+# 職務経歴書
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Shu-Seino&show_icons=true&theme=radical&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shu-Seino&show_icons=true&theme=radical" />
+</a>  
 
 |key|value|
 |---|-----|
