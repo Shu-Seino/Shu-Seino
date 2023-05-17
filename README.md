@@ -1,5 +1,5 @@
 # 職務経歴書
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Shu-Seino&show_icons=true&theme=radical&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hoge&count_private=true&show_icons=true&theme=dracula" />
 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shu-Seino&show_icons=true&theme=radical" />
 
