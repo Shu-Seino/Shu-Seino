@@ -1,4 +1,31 @@
-### Hi there 👋
+https://github-readme-stats.vercel.app/api?username=Shu-Seino&count_private=true&show_icons=true&theme=dracula
+https://github-readme-stats.vercel.app/api/top-langs/?username=Shu-Seino&layout=compact&theme=dracula
+
+|key|value|
+|---|-----|
+|Name|清野　就 (Shu Seino)|
+
+## 資格
+|Certificate|valid|
+|---|---|
+|Cloud Degital Leader|2023/5 ~ |
+
+
+## スキル
+### プログラミング言語
+
+- Java(初心者)
+- Python(初心者)
+
+### その他
+
+- Google Cloud Platform
+
+## 職務経歴
+
+### 2023/04 ~ 現在 : クラウドエース株式会社 新卒入社
+
+
 
 <!--
 **Shu-Seino/Shu-Seino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
