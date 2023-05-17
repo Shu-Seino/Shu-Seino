@@ -1,5 +1,5 @@
-https://github-readme-stats.vercel.app/api?username=Shu-Seino&count_private=true&show_icons=true&theme=dracula
-https://github-readme-stats.vercel.app/api/top-langs/?username=Shu-Seino&layout=compact&theme=dracula
+<a href="https://github-readme-stats.vercel.app/api?username=Shu-Seino&count_private=true&show_icons=true&theme=dracula"></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Shu-Seino&layout=compact&theme=dracula"></a>
 
 |key|value|
 |---|-----|
