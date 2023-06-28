@@ -1,13 +1,14 @@
 # 職務経歴書
 <!--   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Shu-Seino&show_icons=true&theme=radical&count_private=true" /> -->
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shu-Seino&show_icons=true&theme=radical" />
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Shu-Seino&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Shu-Seino&count_private=true&show_icons=true&theme=dracula
+" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shu-Seino" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shu-Seino&count_private=true&theme=dracula
+" />
 </a>
 
 ## 名前
