@@ -9,8 +9,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shu-Seino&theme=vue-dark&count_private=true" />
 </a>
 <br>
-
-##名前  
+- 
+## 名前  
 |key|value|
 |---|-----|
 |Name|清野　就 (Shu Seino)|
