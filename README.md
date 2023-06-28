@@ -9,7 +9,6 @@
 
 <br>  
 
-## 名前  
 |key|value|
 |---|-----|
 |Name|清野　就 (Shu Seino)|
