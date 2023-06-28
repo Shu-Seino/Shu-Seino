@@ -6,9 +6,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Shu-Seino&theme=vue-dark&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shu-Seino&theme=vue-dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shu-Seino&theme=vue-dark&count_private=true" />
 </a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shu-Seino&theme=vue-dark&show_icons=true)
+
 
 ## 名前
 
