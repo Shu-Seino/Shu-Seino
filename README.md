@@ -27,7 +27,7 @@
 
 ### その他
 
-- Google Cloud Platform
+- [![GCP](https://img.shields.io/badge/gcp-black?style=for-the-badge&logo=gcp)](https://github.com/Shu-Seino)
 
 ## 職務経歴
 
