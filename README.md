@@ -3,7 +3,8 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Shu-Seino&show_icons=true&count_private=true&theme=vue-dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shu-Seino&theme=vue-dark&layout=compact)
-    
+
+## Name
 |key|value|
 |---|-----|
 |Name|清野　就 (Shu Seino)|
