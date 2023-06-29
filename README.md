@@ -20,6 +20,8 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Shu-Seino)
 [![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://github.com/Shu-Seino)
 
+[![My Skills](https://skillicons.dev/icons?i=go,python&perline=5)](https://skillicons.dev)
+
 
 ### Others
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Shu-Seino)
