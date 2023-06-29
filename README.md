@@ -17,11 +17,11 @@
 
 ## Skills
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=go,py&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,py&perline=5)](https://skillicons.dev)
 
 
 ### Others
-[![My Skills](https://skillicons.dev/icons?i=gcp,linux,docker,github,vscode&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp,linux,docker,github,vscode&perline=5)](https://skillicons.dev)
 ## Career
 
 ### 2023/04 ~ 現在 : クラウドエース株式会社 新卒入社
