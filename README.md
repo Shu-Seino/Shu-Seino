@@ -1,8 +1,8 @@
 # Profile
 <!--   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Shu-Seino&show_icons=true&theme=radical&count_private=true" /> -->  
-![Github stats](https://github-readme-stats.vercel.app/api?username=Shu-Seino&show_icons=true&count_private=true&theme=dark)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Shu-Seino&show_icons=true&count_private=true&theme=vue-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shu-Seino&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shu-Seino&theme=vue-dark&layout=compact)
     
 |key|value|
 |---|-----|
