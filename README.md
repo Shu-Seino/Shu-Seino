@@ -27,7 +27,7 @@
 
 ### その他
 
-- [![GCP](https://img.shields.io/badge/gcp-black?style=for-the-badge&logo=gcp)](https://github.com/Shu-Seino)
+- [![GCP](https://img.shields.io/badge/GCP-lack?style=for-the-badge&logo=GCP)](https://github.com/Shu-Seino)
 
 ## 職務経歴
 
