@@ -13,22 +13,22 @@
 |---|-----|
 |Name|清野　就 (Shu Seino)|
 
-## 資格
+## Qualification
 |Certificate|valid|
 |---|---|
 |Cloud Degital Leader|2023/5 ~ |
 
 
-## スキル
+## Skills
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Shu-Seino)
 [![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://github.com/Shu-Seino)
 
 
-### その他
-
-- [![GCP](https://img.shields.io/badge/GCP-lack?style=for-the-badge&logo=GCP)](https://github.com/Shu-Seino)
-
+## Others
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Shu-Seino)
+[![GCP](https://img.shields.io/badge/GCP-black?style=for-the-badge&logo=GCP)](https://github.com/Shu-Seino)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Shu-Seino)
 ## 職務経歴
 
 ### 2023/04 ~ 現在 : クラウドエース株式会社 新卒入社
