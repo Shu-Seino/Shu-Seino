@@ -20,10 +20,9 @@
 
 
 ## スキル
-### プログラミング言語
-
-- Python(初心者)
-- Go(勉強中)
+### Languages
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Shu-Seino)
+[![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://github.com/Shu-Seino)
 
 
 ### その他
