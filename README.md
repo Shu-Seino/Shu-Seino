@@ -27,7 +27,7 @@
 
 ## Others
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Shu-Seino)
-[![GCP](https://img.shields.io/badge/GCP-black?style=for-the-badge&logo=GCP)](https://github.com/Shu-Seino)
+[![GCP](https://img.shields.io/badge/google-black?style=for-the-badge&logo=google)](https://github.com/Shu-Seino)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Shu-Seino)
 ## 職務経歴
 
