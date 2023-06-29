@@ -17,16 +17,11 @@
 
 ## Skills
 ### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Shu-Seino)
-[![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://github.com/Shu-Seino)
-
-[![My Skills](https://skillicons.dev/icons?i=go,python&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,py&theme=light&perline=5)](https://skillicons.dev)
 
 
 ### Others
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Shu-Seino)
-[![GCP](https://img.shields.io/badge/googlecloud-black?style=for-the-badge&logo=googlecloud)](https://github.com/Shu-Seino)
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Shu-Seino)
+[![My Skills](https://skillicons.dev/icons?i=gcp,linux,docker,github,vscode&theme=light&perline=5)](https://skillicons.dev)
 ## Career
 
 ### 2023/04 ~ 現在 : クラウドエース株式会社 新卒入社
