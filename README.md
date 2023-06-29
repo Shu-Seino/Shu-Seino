@@ -34,7 +34,7 @@
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Shu-Seino)
 [![GCP](https://img.shields.io/badge/googlecloud-black?style=for-the-badge&logo=googlecloud)](https://github.com/Shu-Seino)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Shu-Seino)
-## 職務経歴
+## Career
 
 ### 2023/04 ~ 現在 : クラウドエース株式会社 新卒入社
 
