@@ -7,7 +7,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Shu-Seino&theme=vue-dark&count_private=true&show_icons=true" />
 </a>　  
+![Github stats](https://github-readme-stats.vercel.app/api?username=Shu-Seino&show_icons=true&count_private=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shu-Seino&theme=dark&layout=compact&hide=CSS,HTML,Roff,PHP,Java&langs_count=10)
     
 |key|value|
 |---|-----|
