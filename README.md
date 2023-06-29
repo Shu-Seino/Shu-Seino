@@ -9,7 +9,7 @@
 </a>　  
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Shu-Seino&show_icons=true&count_private=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shu-Seino&theme=dark&layout=compact&hide=CSS,HTML,Roff,PHP,Java&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shu-Seino&theme=dark&layout=compact)
     
 |key|value|
 |---|-----|
