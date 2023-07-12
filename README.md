@@ -4,6 +4,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shu-Seino&theme=vue-dark&layout=compact)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shu-Seino&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## Name
 |key|value|
 |---|-----|
