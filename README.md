@@ -17,6 +17,7 @@
 |Certificate|valid|
 |---|---|
 |Cloud Degital Leader|2023/5 ~ |
+|Associate Cloud Engineer|2023/7 ~ |
 
 
 ## Skills
