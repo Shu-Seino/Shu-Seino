@@ -18,6 +18,7 @@
 |---|---|
 |Cloud Degital Leader|2023/5 ~ |
 |Associate Cloud Engineer|2023/7 ~ |
+|Professional Cloud Architect|2023/7 ~ |
 
 
 ## Skills
