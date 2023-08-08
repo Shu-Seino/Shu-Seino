@@ -1,8 +1,13 @@
 # Profile
 <!--   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Shu-Seino&show_icons=true&theme=radical&count_private=true" /> -->  
-![Github stats](https://github-readme-stats.vercel.app/api?username=Shu-Seino&show_icons=true&count_private=true&theme=vue-dark)
+<!--   ![Github stats](https://github-readme-stats.vercel.app/api?username=Shu-Seino&show_icons=true&count_private=true&theme=vue-dark) -->  
+![Github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shu-Seino&theme=gruvbox)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shu-Seino&theme=vue-dark&layout=compact&hide=css,html)
+<!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shu-Seino&theme=vue-dark&layout=compact&hide=css,html) --> 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shu-Seino&theme=gruvbox&exclude=html,css) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shu-Seino&theme=gruvbox&exclude=html,css)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shu-Seino&theme=gruvbox)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shu-Seino&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
