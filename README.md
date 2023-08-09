@@ -29,7 +29,7 @@
 
 ## Skills
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=go,py&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,py,js,ts&perline=5)](https://skillicons.dev)
 
 
 ### Others
