@@ -25,6 +25,7 @@
 |Google Certified Cloud Degital Leader|2023/5 ~ |
 |Google Certified Associate Cloud Engineer|2023/7 ~ |
 |Google Certified Professional Cloud Architect|2023/8 ~ |
+|Google Certified Professional Cloud Developer|2023/9 ~ |
 
 
 ## Skills
