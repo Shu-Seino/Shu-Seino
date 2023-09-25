@@ -10,8 +10,6 @@
 <!--   ![Github stats](https://github-readme-stats.vercel.app/api?username=Shu-Seino&show_icons=true&count_private=true&theme=vue-dark) -->  
 ![Github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shu-Seino&theme=solarized_dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shu-Seino&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## Name
