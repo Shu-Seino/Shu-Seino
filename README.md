@@ -33,6 +33,10 @@
 
 ### Others
 [![My Skills](https://skillicons.dev/icons?i=gcp,linux,docker,github,vscode&perline=5)](https://skillicons.dev)
+
+## Learning
+[Google Cloud Skills Boost](https://partner.cloudskillsboost.google/public_profiles/c6a06cb8-eadb-4bea-8565-700e67e48853)
+
 ## Career
 
 ### 2023/04 ~ 現在 : クラウドエース株式会社 新卒入社
