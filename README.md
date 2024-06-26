@@ -32,7 +32,7 @@
 
 
 ### Others
-[![My Skills](https://skillicons.dev/icons?i=gcp,linux,docker,github,gitlab,vscode,spring,postgres,postman,notion,idea&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp,linux,docker,github,gitlab,vscode,spring,maven,postgres,postman,notion,idea&perline=10)](https://skillicons.dev)
 
 ## Learning
 [Google Cloud Skills Boost](https://partner.cloudskillsboost.google/public_profiles/c6a06cb8-eadb-4bea-8565-700e67e48853)
