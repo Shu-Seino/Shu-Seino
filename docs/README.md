@@ -12,11 +12,11 @@ xxx
 
 ### 言語
 
-xxx
+Go,Java,TypeScript,Python
 
 ### フレームワーク等
 
-xxx
+Next.js
 
 ### 通信プロトコル
 
