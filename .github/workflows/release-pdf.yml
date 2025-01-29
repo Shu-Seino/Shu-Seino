@@ -3,8 +3,8 @@ name: Release PDF
 on:
   pull_request:
     branches: [main]
-    paths: ['docs/**'] # docsディレクトリ内の変更をトリガーとする
-  workflow_dispatch: # 手動実行を許可
+    paths: ['docs/**']
+  workflow_dispatch:
 
 jobs:
   release:
@@ -29,5 +29,5 @@ jobs:
           draft: true
           fail_on_unmatched_files: true
           files: docs/README.pdf
-          name: "Release v${{ github.run_number }}" # リリース名を自動的に設定
-          tag_name: "v${{ github.run_number }}" # タグ名も自動的に設定
+          name: "Release v${{ github.run_number }}-${{ github.run_id }}" # リリース名を自動的に設定
+          tag_name: "v${{ github.run_number }}-${{ github.run_id }}" # タグ名も自動的に設定
