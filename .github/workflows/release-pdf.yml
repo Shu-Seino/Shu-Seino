@@ -3,14 +3,14 @@ name: Release PDF
 on:
   pull_request:
     branches: [main]
-    paths: ['docs/**']
+    paths: ['docs/README.md']
   workflow_dispatch:
 
 jobs:
   release:
     name: Release PDF
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 3
     permissions:
       contents: write
       pull-requests: write

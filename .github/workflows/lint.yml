@@ -2,7 +2,6 @@ name: lint
 
 on:
   pull_request:
-    paths-ignore: ['docs/**'] # docs フォルダの変更は除外する
   workflow_dispatch:
 
 jobs:
