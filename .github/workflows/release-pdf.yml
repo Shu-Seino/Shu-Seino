@@ -3,7 +3,7 @@ name: Release PDF
 on:
   pull_request:
     branches: [main]
-    paths: 'docs/README.md'
+    paths: ['docs/**'] # paths の指定を追加
   workflow_dispatch:
 
 jobs:
@@ -29,4 +29,4 @@ jobs:
           draft: true
           fail_on_unmatched_files: true
           files: docs/README.pdf
-          name: Release ${{ github.ref }}
+          name: Release PDF  # リリース名を変更
