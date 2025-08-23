@@ -25,6 +25,7 @@
 |Google Certified Professional Cloud Architect|2023/8 ~ |
 |Google Certified Professional Cloud Developer|2023/9 ~ |
 |Google Certified Professional Cloud DevOps Engineer|2024/6 ~ |
+|Google Certified Professional Data Engineer|2025/8 ~ |
 
 ## Skills
 ### Languages
