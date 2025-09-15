@@ -27,6 +27,8 @@
 |Google Certified Professional Cloud DevOps Engineer|2024/6 ~ |
 |Google Certified Professional Data Engineer|2025/8 ~ |
 |Google Certified Professional Network Engineer|2025/8 ~ |
+|Google Certified Professional Cloud Security Engineer|2025/8 ~ |
+|Google Certified Professional Machine Learning Engineer|2025/9 ~ |
 
 ## Skills
 ### Languages
